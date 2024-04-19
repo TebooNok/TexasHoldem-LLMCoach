@@ -1,6 +1,6 @@
 # TexasHoldem-LLMCoach
 A simple CMD-based Texas Hold'em game allows play with LLM player and support/coach by a LLM coach.
-As the game process is full-text, this is easy to incorporate with llm training like reflexion, expel, react, agent-pro..
+As the game process is full-text, this is easy to incorporate with llm training like reflexion, expel, react, agent-pro, or even rlcards
 
 You can simply set your api-key and api-url in ```.env```, then start to play by running ```poker_game.py```
 

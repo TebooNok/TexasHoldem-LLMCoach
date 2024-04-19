@@ -4,6 +4,7 @@ A simple CMD based texas holdem game allows play with LLM player and support/coa
 You can simply set your api-key and api-url in ```.env```, then start to play by running ```poker_game.py```
 
 We noticed that, using "icon" to represent cards outperform using english/chinese character or words. e.g., ♥K
+
 A sample game in game log is:
 ```
 欢迎使用双人无限制德州扑克-CMD版
